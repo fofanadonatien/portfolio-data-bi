@@ -10,7 +10,7 @@ orienté analyse de données, Business Intelligence et systèmes d’information
 - **Data & BI** : Power BI, SQL, DAX  
 - **Modélisation et bases de données** : UML, PostgreSQL, SQL avancé  
 - **Programmation** : Java, C, Python (académique)  
-- **Web / Autres** : HTML, CSS, projets web simples  
+- **Web / Autres** : HTML, CSS, projets web 
 
 ---
 
