@@ -24,7 +24,7 @@ orienté analyse de données, Business Intelligence et systèmes d’information
 
 ### Gestion de prêts de matériel – SQL / UML
 - Modélisation relationnelle, requêtes avancées
-- Outils : SQL, PostgreSQL, UML
+- Outils : SQL, SQLITE, UML
 - [Voir le projet](https://github.com/fofanadonatien/projet-gestion-prets-materiels)  
 <!-- - ![Capture UML / SQL](https://user-images.githubusercontent.com/tonprofil/capture_sql.png)   Remplace par ton image -->
 
