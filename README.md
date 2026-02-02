@@ -41,3 +41,9 @@ orienté analyse de données, Business Intelligence et systèmes d’information
 
 - [LinkedIn](https://www.linkedin.com/in/donatien-fofana-74b1b72b3)  
 - [Coursera – Certificat Data Analyst en cours](https://www.coursera.org/user/19fd9c32f4096718be412d56c0ccc161)
+
+---
+
+**Note :**  
+Ce repo centralise mon portfolio avec la description de mes projets et mes compétences.  
+Chaque projet est accessible via le lien correspondant pour voir le code, la documentation et les analyses détaillées.
