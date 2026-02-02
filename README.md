@@ -19,20 +19,20 @@ orienté analyse de données, Business Intelligence et systèmes d’information
 ### Analyse des ventes d’un supermarché – Power BI
 - Analyse de la rentabilité, promotions et pertes
 - Outils : Power BI, SQL, DAX
-- [Voir le projet](https://github.com/fofanadonatien/Analyse_des_ventes_d_un-supermarche)  
+- [Voir le projet complet](https://github.com/fofanadonatien/Analyse_des_ventes_d_un-supermarche)  
 <!-- - ![Capture Power BI](https://user-images.githubusercontent.com/tonprofil/capture_vente.png) Remplace par ton image -->
 
 ### Gestion de prêts de matériel – SQL / UML
 - Modélisation relationnelle, requêtes avancées
 - Outils : SQL, SQLITE, UML
-- [Voir le projet](https://github.com/fofanadonatien/projet-gestion-prets-materiels)  
+- [Voir le projet complet](https://github.com/fofanadonatien/projet-gestion-prets-materiels)  
 <!-- - ![Capture UML / SQL](https://user-images.githubusercontent.com/tonprofil/capture_sql.png)   Remplace par ton image -->
 
 ---
 
 ## Autres projets informatiques
 - Projets Java, C, Web (académiques)
-- [Voir le projet Quincaillerie Java](https://github.com/fofanadonatien/PROJET_QUINCAILLERIE_JAVA)  
+- [Voir le projet complet Quincaillerie Java](https://github.com/fofanadonatien/PROJET_QUINCAILLERIE_JAVA)  
 <!-- - ![Capture projet Java](https://user-images.githubusercontent.com/tonprofil/capture_java.png)  Remplace par ton image -->
 
 ---
