@@ -1,4 +1,4 @@
-# Portfolio – Data & Business Intelligence
+# Portfolio – Base de Données
 
 Je suis **Donatien Fofana**, étudiant en Licence MIAGE à l’Université Grenoble Alpes,  
 Intéressé par la gestion et l’exploitation des données, je souhaite évoluer vers les métiers liés aux systèmes décisionnels et à l’administration des bases de données.
@@ -7,10 +7,28 @@ Intéressé par la gestion et l’exploitation des données, je souhaite évolue
 
 ## Compétences
 
-- **Data & BI** : Power BI, SQL, DAX, Analyse de données 
-- **Modélisation et bases de données** : Modélisation UML / MCD, PostgreSQL / SQLite, SQL avancé, Intégrité référentielle, Optimisation de requêtes
-- **Programmation** : Java, C, Python, Angular / TypeScript 
-- **Web / Autres** : HTML, CSS, projets web 
+### Data & Business Intelligence
+- Power BI
+- SQL
+- DAX
+- Analyse de données
+
+### Modélisation et bases de données
+- Modélisation UML / MCD
+- PostgreSQL / SQLite
+- SQL avancé
+- Intégrité référentielle
+- Optimisation de requêtes
+
+### Programmation
+- Java (programmation orientée objet)
+- C
+- Python
+- Angular / TypeScript
+
+### Web
+- HTML
+- CSS
 
 ---
 
@@ -41,6 +59,18 @@ Application orientée objet pour gérer un catalogue de pièces simples et compo
 Utilisation de l’héritage, du polymorphisme et des collections Java.
 - [Voir le projet complet Quincaillerie Java](https://github.com/fofanadonatien/PROJET_QUINCAILLERIE_JAVA)  
 <!-- - ![Capture projet Java](https://user-images.githubusercontent.com/tonprofil/capture_java.png)  Remplace par ton image -->
+
+---
+
+## Interpréteur de langage minimaliste – C
+
+Conception d’un interpréteur capable d’exécuter un langage simple avec variables et structures de contrôle.
+
+- Analyse lexicale et syntaxique
+- Construction d’un arbre syntaxique abstrait (AST)
+- Gestion des variables et exécution du programme
+
+Technologies : **C, structures de données, algorithmique**
 
 ---
 
