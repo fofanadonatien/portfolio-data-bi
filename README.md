@@ -52,14 +52,14 @@ Modélisation UML, création du schéma SQL et requêtes d’analyse.
 
 ---
 
-## Autres projets informatiques
-- Projets Java
-  
-Application orientée objet pour gérer un catalogue de pièces simples et composites.
-Utilisation de l’héritage, du polymorphisme et des collections Java.
+## Gestion d’une quincaillerie - Java
+Développer une application Java pour gérer un catalogue de pièces.
+- Utilisation de l’héritage et du polymorphisme
+- Gestion de catalogue et calcul des prix
+- Manipulation des collections Java
+- Outils :  Java, POO, UML, Collections, VsCode 
 - [Voir le projet complet Quincaillerie Java](https://github.com/fofanadonatien/PROJET_QUINCAILLERIE_JAVA)  
 <!-- - ![Capture projet Java](https://user-images.githubusercontent.com/tonprofil/capture_java.png)  Remplace par ton image -->
-
 ---
 
 ## Interpréteur de langage minimaliste – C
@@ -69,10 +69,12 @@ Conception d’un interpréteur capable d’exécuter un langage simple avec var
 - Analyse lexicale et syntaxique
 - Construction d’un arbre syntaxique abstrait (AST)
 - Gestion des variables et exécution du programme
-
-Technologies : **C, structures de données, algorithmique**
-
+- Outils : C, structures de données, algorithmique
+- [Voir le projet complet Interpréteur de langage minimaliste C](https://github.com/fofanadonatien/PROJET-IINTERPRETEUR-DE-LANGAGE-MINIMALISTE) 
 ---
+
+## Autres projets informatiques
+- [Voir les autres projet](https://github.com/fofanadonatien) 
 
 ## Liens professionnels et certificats
 
