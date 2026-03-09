@@ -74,7 +74,7 @@ Conception d’un interpréteur capable d’exécuter un langage simple avec var
 ---
 
 ## Autres projets informatiques
-- [Voir les autres projet](https://github.com/fofanadonatien) 
+- [Voir les autres projet](https://github.com/fofanadonatien?tab=repositories) 
 
 ## Liens professionnels et certificats
 
